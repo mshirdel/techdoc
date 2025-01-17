@@ -1,0 +1,1 @@
+Container registries are centralized places where you store container images.
