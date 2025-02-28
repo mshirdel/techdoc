@@ -158,5 +158,3 @@ with TimingContextManager(enabled=True):
 3. **`TimingContextManager`**: A context manager that enables and disables the timing dynamically by temporarily replacing the `timing_decorator`.
 
 This question tests the candidate's understanding of metaclasses, decorators, and context managers, as well as their ability to combine these concepts to create a flexible and powerful system.
-
-Feel free to use or tweak this question for your interview process. If you have any other specific topics in mind or need further examples, let me know!
